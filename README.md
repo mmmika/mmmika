@@ -1,4 +1,10 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmmika&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on couple of projects in my company Drexcon & Molnier, Inc. and also for my clients arround the world as a freelancer at under [my website](https://bartonova.solutions) and our small independent sdudio [minikony](https://minikony.com)
+- 🤔 I’m looking for help with development of various interesting projects
+- 📫 How to reach me: michaela@bartonova.solutions
 
 <!--
 **mmmika/mmmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
