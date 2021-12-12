@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I am currently working on several projects. At my company, Drexcon & Molnier, Inc., where I strive to help with data & advanced automation low-code systems, and also for my valued clients around the world as a freelancer [Bartonova] (https://bartonova.solutions). And we are constantly working on our small independent studio [minikony] (https://minikony.com), where we create a lot of interactive things
+- 🔭 I am currently working on several projects. At my company, [Drexcon & Molnier, Inc.](https://drexconandmolnier.com), where I strive to help with data & advanced automation low-code systems, and also for my valued clients around the world as a freelancer [Bartonova] (https://bartonova.solutions). And we are constantly working on our small independent studio [minikony] (https://minikony.com), where we create a lot of interactive things
 - 📫 How to reach me: michaela@bartonova.solutions
 
 <!--
