@@ -8,7 +8,9 @@
 - I am active freelancer helping my valued clients around the world to pursuide their visions. And we touched a lot of areas. I have my freelancer/formal developer sites at [Bartonova in Czechia,EU](https://bartonova.agency) - those are WIP now 😊 
 - And I am happy happy to anounce the we are constantly working on our small independent studio 👾 [minikony s.r.o. in Czechia,EU](https://minikony.com), where we create a lot of interactive things and more to come. We also became the official company called minikony s.r.o. and looking forward to share our effort with out players and app users. We love it!
 - And 
-- 📫 How to reach me: michaela@bartonova.solutions
+- 📫 How to reach me: michaela@bartonova.agency
+
+BaDMEM group means - @bartonova.agency @minikony.com @drexconandmolnier.com @edenhall.cz
 
 <!--
 
