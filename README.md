@@ -10,7 +10,7 @@
 - And 
 - 📫 How to reach me: michaela@bartonova.agency
 
-BaDMEM group means - @bartonova.agency @minikony.com @drexconandmolnier.com @edenhall.cz
+BaDMEM group means - @bartonova.agency @drexconandmolnier.com @edenhall.cz @minikony.com 
 
 <!--
 
