@@ -7,9 +7,9 @@
 - At ⚡ [edenhall s.r.o. in Czechia, EU](https://edenhall.cz) where I am trying to reach also other verticals but focus on the creative digital businessess
 - And I am happy happy to anounce the we are constantly working on our small independent studio 👾 [minikony s.r.o. in Czechia,EU](https://minikony.com), where we create a lot of interactive things and more to come. We also became the official company called minikony s.r.o. and looking forward to share our effort with out players and app users. We love it!
 - And 
-- 📫 How to reach me: michaela@bartonova.agency (in any BaEM related questions)
+- 📫 How to reach me: michaela@bartonova.agency (in any related questions)
 
-BaEM group means - @bartonova.agency @edenhall.cz @minikony.com
+group means - @bartonova.agency @edenhall.cz @minikony.com - no other entites involved!
 
 <!--
 
