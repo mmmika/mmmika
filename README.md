@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mmmika&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://bartonova.solutions)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmmika&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://bartonova.github.io)
 
 ### Hi there 👋
 
